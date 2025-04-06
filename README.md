@@ -12,7 +12,7 @@
 - 📸 I'm also into **photography** and **photo editing** — creativity meets code!
 - 🌱 Currently learning: **Advanced React**, **Node.js**, and **GCP services**
 - 💬 Ask me about **JavaScript**, **React**, **Python**, **UI/UX**, or **Agile Dev**
-- 📫 Reach me at **ykadam@iit.edu**
+- 📫 Reach me at **ykadam1@hawk.iit.edu**
 
 ---
 
