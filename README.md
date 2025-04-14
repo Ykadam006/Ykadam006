@@ -16,21 +16,6 @@
 
 ---
 
-## 🚀 Projects
-
-Here are some of my favorite projects:
-
-- 🌍 [**Ghumakad Travel Planner**](#)  
-  A feature-rich travel planning web app with itinerary builder, weather forecast, and budget estimator using React, APIs, and Tailwind CSS.
-
-- 💼 [**Portfolio Website**](#)  
-  A responsive personal portfolio built with HTML, CSS, JavaScript, and Tailwind — showcasing my work, skills, and contact form.
-
-- 🧠 [**Semantic Enrichment for Text Summarization**](#)  
-  A research-based Python project enhancing biomedical text summaries using UMLS and SNOMED CT ontologies.
-
----
-
 ## 🛠️ Skills
 
 **Languages/Tools:**  
