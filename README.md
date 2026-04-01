@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-%23A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/yogi006/)
 [![Portfolio](https://img.shields.io/badge/portfolio-view%20live-%23F472B6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://yk-studio.vercel.app/)
 [![Email](https://img.shields.io/badge/email-hit%20me%20up-%2334D399?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:y.kadam2026@outlook.com)
+[![Open to Work](https://img.shields.io/badge/open%20to%20full--time%20roles-%2300C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/yogi006/)
 
 <br/>
 
@@ -268,6 +269,15 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
 
 ---
 
+## this week in code
+
+> auto-updated daily via wakatime · [set yours up →](https://wakatime.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## github wrapped (the real one)
 
 <div align="center">
@@ -321,6 +331,12 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ykadam006/Ykadam006/output/github-contribution-grid-snake.svg"/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ykadam006/Ykadam006/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ykadam006/Ykadam006/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 
 </div>
 
