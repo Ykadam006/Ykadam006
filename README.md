@@ -297,11 +297,21 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
 
 ---
 
-## trophies (didn't ask, but here we are)
+## by the numbers
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ykadam006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ykadam006&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ykadam006&theme=tokyonight" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ykadam006&theme=tokyonight" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ykadam006&theme=tokyonight&utcOffset=-6" height="150"/>
 
 </div>
 
