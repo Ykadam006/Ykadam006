@@ -114,6 +114,21 @@ not just side projects — real production code, real users, real stakes
 
 <br/>
 
+### applyvibe — job tracker saas, built from scratch
+
+> full-stack saas because spreadsheets weren't cutting it — kanban board, analytics, auth, the works
+
+```
+next.js 14  ·  auth.js v5  ·  typescript  ·  tailwind css  ·  prisma  ·  neon postgresql  ·  dnd-kit  ·  recharts
+```
+
+- built end-to-end saas with next.js 14 and auth.js v5, delivering secure credential and oauth flows for multi-user access
+- designed drag-and-drop kanban board using dnd-kit, enabling real-time application status management across 5 pipeline stages
+- integrated recharts analytics dashboard surfacing application trends and stage-level conversion data at a glance
+- used prisma + neon postgresql for type-safe schema management and serverless-compatible persistent data layer
+
+---
+
 ### industry-student collaboration platform — full-stack on aws
 
 > the most technically complex thing i've built — spring boot back-end, react front-end, deployed on 4 AWS services
@@ -202,20 +217,6 @@ next.js  ·  typescript  ·  tailwind css  ·  postgresql  ·  full-stack
 
 ---
 
-### dailyhabitz — habit tracker that doesn't guilt-trip you
-
-> built it because every other app had 47 onboarding steps and a premium paywall
-
-```
-next.js  ·  typescript  ·  tailwind css  ·  cloud database  ·  vercel
-```
-
-- daily habit tracking with a minimal, intentional UI
-- streak and completion stats without the shame spiral
-- designed for real people, not productivity influencers
-
----
-
 ### social media dashboard — javafx desktop app
 
 > old-school vibes, solid architecture — MVC done right with a relational DB
@@ -300,7 +301,7 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ykadam006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ykadam006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
