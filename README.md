@@ -127,6 +127,12 @@ next.js 14  ·  auth.js v5  ·  typescript  ·  tailwind css  ·  prisma  ·  ne
 - integrated recharts analytics dashboard surfacing application trends and stage-level conversion data at a glance
 - used prisma + neon postgresql for type-safe schema management and serverless-compatible persistent data layer
 
+<div align="center">
+
+[![applyvibe](https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=ApplyVibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9)](https://github.com/Ykadam006/ApplyVibe)
+
+</div>
+
 ---
 
 ### industry-student collaboration platform — full-stack on aws
@@ -156,6 +162,12 @@ next.js 15  ·  react 19  ·  typescript  ·  tailwind css  ·  node/express  ·
 - developed Node/Express APIs with JWT auth, securing credential-based access across 4 core habit management endpoints
 - implemented MongoDB Atlas with validation logic, improving data reliability by 35% during edge cases and retries
 - configured GitHub Actions CI with 3 checks, preventing broken main-branch deployments — 100% build stability
+
+<div align="center">
+
+[![dailyhabitz](https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=DailyHabitz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9)](https://github.com/Ykadam006/DailyHabitz)
+
+</div>
 
 ---
 
@@ -253,23 +265,6 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
 
 [![Skills](https://skillicons.dev/icons?i=figma,vscode,postman,vercel,netlify&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23EE4B96.svg?style=flat-square&logo=framer&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -285,7 +280,7 @@ java  ·  javafx  ·  mysql  ·  mvc architecture  ·  role-based access control
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ykadam006&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=F472B6&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ykadam006&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=F472B6&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -386,36 +381,3 @@ vibe:         "ship it, then make it perfect"
 
 </div>
 
----
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SNAKE ANIMATION SETUP — do this once, runs daily after that
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Create: .github/workflows/snake.yml  in your Ykadam006 repo
-
-name: snake animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then go: Actions tab -> Run workflow  (trigger it once manually)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
