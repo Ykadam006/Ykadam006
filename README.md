@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&customColorList=2,3,12,20,24&text=Yogesh%20Kadam&fontSize=46&fontColor=ffffff&animation=twinkling&stroke=6C63FF&strokeWidth=2" width="100%" />
 
-### Full-Stack Developer | UX + Backend + Cloud
+### Full-Stack Developer | UX x Backend x Cloud
 MS in IT & Management @ Illinois Tech (GPA 4.0) | Chicago, IL | Open to Full-Time Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogi006/)
@@ -19,26 +19,48 @@ MS in IT & Management @ Illinois Tech (GPA 4.0) | Chicago, IL | Open to Full-Tim
 
 ---
 
+## Developer Snapshot
+
+<div align="center">
+
+[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Product%20Engineering-A78BFA?style=flat-square&labelColor=0d1117)](#)
+[![Strength](https://img.shields.io/badge/Strength-UX--First%20Frontend%20%2B%20Solid%20Backend-F472B6?style=flat-square&labelColor=0d1117)](#)
+[![Current Role](https://img.shields.io/badge/Current%20Role-Web%20Design%20%26%20Dev%20Manager%20Intern-34D399?style=flat-square&labelColor=0d1117)](#)
+
+</div>
+
+---
+
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Ykadam006/ApplyVibe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=ApplyVibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9" /></a>
-  <a href="https://github.com/Ykadam006/DailyHabitz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=DailyHabitz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9" /></a>
-  <a href="https://github.com/Ykadam006/travel-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=travel-planner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9" /></a>
-  <a href="https://github.com/Ykadam006/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ykadam006&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9" /></a>
-</p>
+<div align="center">
+
+[![ApplyVibe](https://img.shields.io/badge/ApplyVibe-Smart%20Job%20Tracker-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/Inbox2Offer)
+[![DailyHabitz](https://img.shields.io/badge/DailyHabitz-Habit%20Tracker-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/DailyHabitz)
+
+[![Travel Planner](https://img.shields.io/badge/Travel%20Planner-Ghumakkad-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/travel-planner)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/Portfolio)
+
+<br/>
+
+![ApplyVibe Stars](https://img.shields.io/github/stars/Ykadam006/Inbox2Offer?style=flat-square&label=ApplyVibe%20Stars&color=A78BFA&labelColor=111827)
+![DailyHabitz Stars](https://img.shields.io/github/stars/Ykadam006/DailyHabitz?style=flat-square&label=DailyHabitz%20Stars&color=F472B6&labelColor=111827)
+![Travel Planner Stars](https://img.shields.io/github/stars/Ykadam006/travel-planner?style=flat-square&label=Travel%20Planner%20Stars&color=34D399&labelColor=111827)
+![Portfolio Stars](https://img.shields.io/github/stars/Ykadam006/Portfolio?style=flat-square&label=Portfolio%20Stars&color=60A5FA&labelColor=111827)
+
+</div>
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ykadam006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykadam006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9&langs_count=8" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ykadam006&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=F472B6&point=34D399&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ykadam006&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=F472B6&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ykadam006&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ykadam006&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -63,15 +85,9 @@ MS in IT & Management @ Illinois Tech (GPA 4.0) | Chicago, IL | Open to Full-Tim
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="left">
-      <strong>01.</strong> I build products that ship, not just demos.<br/>
-      <strong>02.</strong> UX-first on the frontend, reliability-first on the backend.<br/>
-      <strong>03.</strong> Building at CIP by day, shipping side projects by night.
-    </td>
-  </tr>
-</table>
+<strong>01.</strong> I build products that ship, not just demos.<br/>
+<strong>02.</strong> UX-first on the frontend, reliability-first on the backend.<br/>
+<strong>03.</strong> Building at CIP by day, shipping side projects by night.
 
 </div>
 
