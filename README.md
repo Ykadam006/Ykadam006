@@ -39,14 +39,14 @@ MS in IT & Management @ Illinois Tech (GPA 4.0) | Chicago, IL | Open to Full-Tim
 [![DailyHabitz](https://img.shields.io/badge/DailyHabitz-Habit%20Tracker-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/DailyHabitz)
 
 [![Travel Planner](https://img.shields.io/badge/Travel%20Planner-Ghumakkad-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/travel-planner)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykadam006/portfolio-v2)
 
 <br/>
 
 ![ApplyVibe Stars](https://img.shields.io/github/stars/Ykadam006/Inbox2Offer?style=flat-square&label=ApplyVibe%20Stars&color=A78BFA&labelColor=111827)
 ![DailyHabitz Stars](https://img.shields.io/github/stars/Ykadam006/DailyHabitz?style=flat-square&label=DailyHabitz%20Stars&color=F472B6&labelColor=111827)
 ![Travel Planner Stars](https://img.shields.io/github/stars/Ykadam006/travel-planner?style=flat-square&label=Travel%20Planner%20Stars&color=34D399&labelColor=111827)
-![Portfolio Stars](https://img.shields.io/github/stars/Ykadam006/Portfolio?style=flat-square&label=Portfolio%20Stars&color=60A5FA&labelColor=111827)
+![Portfolio Stars](https://img.shields.io/github/stars/Ykadam006/portfolio-v2?style=flat-square&label=Portfolio%20Stars&color=60A5FA&labelColor=111827)
 
 </div>
 
